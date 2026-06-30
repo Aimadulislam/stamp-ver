@@ -1,3 +1,3 @@
 stamp 
-ds
+ds6
 'w
